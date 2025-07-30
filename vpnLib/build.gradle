@@ -5,10 +5,10 @@ android {
     compileSdk 33
     defaultConfig {
         minSdkVersion 21
-        targetSdkVersion 33
+        targetSdkVersion 35
         versionCode 1
         versionName "1.0"
-        ndkVersion "22.1.7171670"
+        ndkVersion "28.1.13356709"
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
 
     }
